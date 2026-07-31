@@ -56,6 +56,9 @@ The dataset (`data/Process_Data_Raw.xlsx`) covers 110 process-activity records a
 The data points to a consistent pattern: value is lost less in the "doing" of the work and more in the waiting, handoffs, and manual re-entry around it. Targeted automation and approval redesign on the worst-performing activities would meaningfully cut cycle time and cost without a full process overhaul.
 
 ## Repository Structure
+
+
+```
 business-process-mapping-optimization/
 ├── data/
 │   └── Process_Data_Raw.xlsx
@@ -69,6 +72,7 @@ business-process-mapping-optimization/
 ├── report/
 │   └── business-recommendation-report.md
 └── README.md
+```
 
 ## Tools Used
 Excel/Power BI for KPI analysis and dashboarding, Lucidchart/Draw.io for process mapping, and this repository for version control and portfolio presentation.
