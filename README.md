@@ -6,9 +6,9 @@
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard/dashboard-screenshot1.png)
 
----
+<img width="1224" height="724" alt="dashboard_summary1" src="https://github.com/user-attachments/assets/a29d41c5-7fa2-46f0-abf7-9e2543231cae" />
+
 
 ## Objective
 Analyze the workflows of a mid-size company across five core processes, identify where time, cost, and quality are being lost, and recommend a redesigned ("To-Be") process supported by measurable KPIs.
